@@ -1065,9 +1065,10 @@ run all the tests and do the cleanup afterwards. Read more on the testing utilit
 
 Phantom was developed at websudos as an in-house project. All Cassandra integration at websudos goes through phantom.
 
-* Flavian Alexandru flavian@newzly.com(maintainer)
-* Tomasz Perek tomasz.perek@newzly.com
-* Viktor Taranenko (viktortnk)
+* Flavian Alexandru (@alexflav23) (maintainer)
+* Franz Bettag (@bettag)
+* Viktor Taranenko (@viktortnk)
+* Tomasz Perek (@perek)
 * Bartosz Jankiewicz (@bjankie1)
 * Eugene Zhulenev (@ezhulenev)
 
